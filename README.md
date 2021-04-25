@@ -10,7 +10,3 @@
 
 ## Project Name
 Wine quality classification.
-
-### Certification
-![](img/TopLearnerCertificate.png)
-
