@@ -1,4 +1,4 @@
-# GAIH Machine Learning 19.04.2021
+# GAIH Machine Learning
 ![](img/newlogo.png)
 
 **Course Date:** 19.04.2021  
