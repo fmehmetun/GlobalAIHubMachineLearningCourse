@@ -1,4 +1,4 @@
-# GAIH Student Repo Example
+# GAIH Machine Learning 19.04.2021
 ![](img/newlogo.png)
 
 **Course Date:** 19.04.2021  
